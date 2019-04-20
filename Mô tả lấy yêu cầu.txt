@@ -1,0 +1,20 @@
+﻿1.Phương pháp lấy yêu cầu:
+Phương pháp nghiên cứu tài liệu và các phần mềm tương ứng kết hợp Brainstorming
+2.Lý do chọn phương pháp:
+- Lý do chung:
++ Các phương pháp dễ hiểu và đều từng được thực hiện với sinh viên
++ Chưa có kinh nghiệm trong việc lấy yêu cầu phần mềm
++ Chưa có kinh nghiệm làm những sản phẩm tương ứng
++ Thời gian có hạn
+- Lý do không chọn phương pháp khác:
++ Không chọn phương pháp phỏng vấn vì:
+Thông tin rõ ràng, dễ hiểu (không bất đồng về ngôn ngữ, khái niệm) và đúng chuẩn, không phụ thuộc người được phỏng vấn
++ Không chọn phương pháp bảng hỏi vì:
+Đỡ tốn kém về chi phí
++ Không chọn phương pháp JAD vì
+JAD phù hợp hơn với các dự án có quy mô lớn
++ Các phương pháp còn lại (RAD, nguyên mẫu) yêu cầu cao về kỹ năng và kinh nghiệm
+3. Đối tượng hỏi:
+Hệ thống bán thuốc của KiotViet.vn
+
+ 
