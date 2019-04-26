@@ -17,4 +17,16 @@ JAD phù hợp hơn với các dự án có quy mô lớn
 3. Đối tượng hỏi:
 Hệ thống bán thuốc của KiotViet.vn
 
+
+Nhà thuốc ABC cần xây dựng một hệ thống bán thuốc:
+- tiết kiệm thời gian và công sức trong việc nhập và lưu trữ dữ liệu(tự điền thông tin, select options, không lưu trữ dưới dạng giấy tờ hoặc các file riêng lẻ nữa mà giờ đây chỉ cần truy cập hệ thống và thao tác trên 1 hệ thống)
+- quản lý và xem dữ liệu dưới dạng được trình bày khoa học và có thứ tự hơn ( ví dụ như thông tin lưu dưới dạng bảng như excel nhưng sẽ có chức năng truy cứu và tìm kiếm theo các trường => nhanh hơn, thuận tiện hơn)
+- có các thống kê, báo cáo kinh doanh và thu chi để hỗ trợ đưa ra các quyết định kinh doanh
+- quản lý số lượng hàng tồn kho, hạn sử dụng của thuốc
+
+có giao diện đẹp, chuyện nghiệp và trực quan 
+có tốc độ phản hồi nhanh
+  
+
+
  
