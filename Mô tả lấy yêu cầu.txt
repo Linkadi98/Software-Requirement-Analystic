@@ -1,14 +1,12 @@
 ﻿1.Phương pháp lấy yêu cầu:
-Phương pháp nghiên cứu tài liệu và các phần mềm tương ứng kết hợp Brainstorming
+Phương pháp nghiên cứu tài liệu và các phần mềm tương ứng kết hợp phỏng vấn
 2.Lý do chọn phương pháp:
 - Lý do chung:
-+ Các phương pháp dễ hiểu và đều từng được thực hiện với sinh viên
-+ Chưa có kinh nghiệm trong việc lấy yêu cầu phần mềm
-+ Chưa có kinh nghiệm làm những sản phẩm tương ứng
++ Các phương pháp dễ hiểu với sinh viên
++ It kinh nghiệm trong việc lấy yêu cầu phần mềm
++ Ít kinh nghiệm làm những sản phẩm tương ứng
 + Thời gian có hạn
 - Lý do không chọn phương pháp khác:
-+ Không chọn phương pháp phỏng vấn vì:
-Thông tin rõ ràng, dễ hiểu (không bất đồng về ngôn ngữ, khái niệm) và đúng chuẩn, không phụ thuộc người được phỏng vấn
 + Không chọn phương pháp bảng hỏi vì:
 Đỡ tốn kém về chi phí
 + Không chọn phương pháp JAD vì
@@ -19,13 +17,15 @@ Hệ thống bán thuốc của KiotViet.vn
 
 
 Nhà thuốc ABC cần xây dựng một hệ thống bán thuốc:
+- hỗ trợ các thao tác bán thuốc, nhập thuốc, trả hàng (dữ liệu được nhập nhanh hơn, hóa đơn tự in khi thanh toán)
 - tiết kiệm thời gian và công sức trong việc nhập và lưu trữ dữ liệu(tự điền thông tin, select options, không lưu trữ dưới dạng giấy tờ hoặc các file riêng lẻ nữa mà giờ đây chỉ cần truy cập hệ thống và thao tác trên 1 hệ thống)
 - quản lý và xem dữ liệu dưới dạng được trình bày khoa học và có thứ tự hơn ( ví dụ như thông tin lưu dưới dạng bảng như excel nhưng sẽ có chức năng truy cứu và tìm kiếm theo các trường => nhanh hơn, thuận tiện hơn)
 - có các thống kê, báo cáo kinh doanh và thu chi để hỗ trợ đưa ra các quyết định kinh doanh
-- quản lý số lượng hàng tồn kho, hạn sử dụng của thuốc
+- quản lý số lượng hàng tồn kho, hạn sử dụng của thuốc (Đối với thuốc có hạn dùng còn khoảng 1 năm sẽ được
+ đẩy bán nhanh hơn, nếu còn 1-2 ngày sẽ mang đi hủy)
 
 có giao diện đẹp, chuyện nghiệp và trực quan 
-có tốc độ phản hồi nhanh
+có tốc độ phản hồi nhanh 
   
 
 
