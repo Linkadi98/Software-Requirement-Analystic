@@ -1,7 +1,4 @@
-# Software-Requirement-Analystic
-# imgs chứa các ảnh của các biểu đồ
-# modeling chứa các file .mdj của StarUML
-# report chứa báo cáo + srs + slide
+
  
  + Thực ra bộ câu hỏi mọi người chuẩn bị khá ổn rồi, nhưng vẫn còn nhiều chỗ có thể cải thiện hơn 1 chút, nhờ mọi người check chéo mà chả thấy ma nào quan tâm. Tổn thương vl. Nhưng thôi, mọi người k thích làm nữa mình cũng k ép.
  + Nhưng bây giờ công việc đơn giản hơn, yêu cầu ae nghiêm túc làm tốt nhé, k là cạch mặt thật đấy
